@@ -7,4 +7,14 @@
  *
  * maximizedArray(arr1, arr2)
  * [9, 7, 6, 4, 10]
+ *
+ *
+ * Notes
+ * - arr1, arr2 are the same size (n)
+ * - max here means max sum of the elements- take only the highest numbers?
  */
+
+const maximizedArray = (arr1, arr2) => {};
+
+maximizedArray(arr1, arr2);
+console.log(9, 7, 6, 4, 10);
